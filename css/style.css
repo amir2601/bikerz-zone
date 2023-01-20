@@ -1,0 +1,10 @@
+.f-menu ul {
+    gap: 20px;
+}
+
+.f-menu ul li {
+    list-style: none;
+}
+.f-menu ul li a {
+    text-decoration: none;
+}
