@@ -12,7 +12,7 @@
 @media only screen and (max-width: 576px) {
    .footer-text {
         position: absolute;
-        top: 380px;
+        top: 300px;
         left: 70px;
    }
    .footer-icon-side {
