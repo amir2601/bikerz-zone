@@ -8,3 +8,15 @@
 .f-menu ul li a {
     text-decoration: none;
 }
+
+@media only screen and (max-width: 576px) {
+   .footer-text {
+        position: absolute;
+        top: 380px;
+        left: 70px;
+   }
+   .footer-icon-side {
+    width: 200px;
+    margin-left: 30px;
+   }
+}
